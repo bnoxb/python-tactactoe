@@ -104,6 +104,6 @@ def determineWinner(player):
     else:
         determineTurn()
 
-
+# and call the start function
 start()
 
